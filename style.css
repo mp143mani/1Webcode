@@ -1,0 +1,59 @@
+
+  .productCard {
+    background-color: #86d5e2;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(157, 124, 124, 0.2);
+  }
+  
+  h2 {
+    color: #252323;
+    text-align:center;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: rgb(201, 225, 143);
+    padding: 10px;
+    
+    
+    
+  }
+  
+  h3 {
+    color: #ab47bc;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  p {
+    color: hsl(0, 0%, 0%);
+    padding-left: 50px;
+    
+    
+  }
+  
+  a {
+    color: #ef5350;
+    text-decoration: none;
+    padding-left: 70px;
+   
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:50% ;
+    
+    
+    
+  }
+  
+  div{
+    text-align: center;
+    background-color: rgb(200, 212, 216);
+    padding-bottom: 5px;
+  }
+
+  
